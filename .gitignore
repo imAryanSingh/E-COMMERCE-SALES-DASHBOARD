@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbix.tmp
+AutoRecovery/
+
+# Excel source data (if any)
+*.xlsx
+*.csv
