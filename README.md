@@ -36,7 +36,7 @@ This Power BI dashboard transforms raw e-commerce transaction data into an execu
  
 ## Dashboard Preview
  
-![Dashboard Screenshot](Screenshot%202024-03-28%20000150.png)
+![Dashboard Screenshot](dashboard_preview.png)
  
 > **The dashboard includes:**
 > - KPI cards: Total Sales · Total Profit · Total Quantity · Average Order Value
